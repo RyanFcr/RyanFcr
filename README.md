@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+#### About Me
+
+- 🎓An undergraduate student in Zhejiang University , major in Information Security
+- 💻Learning open courses released by MIT/CMU
+- 🌱blog：[Sisyphus's blog - 西西弗斯没问题 (ryanfcr.github.io)](https://ryanfcr.github.io/)
+
+#### Interest
+
+- BlockChain&NFT
+- web3.0
+- Encryption
+
 <!--
 **RyanFcr/RyanFcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
