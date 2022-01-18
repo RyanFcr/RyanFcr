@@ -10,7 +10,7 @@
 
 - BlockChain&NFT
 - web3.0
-- Encryption
+- Crypto
 
 <!--
 **RyanFcr/RyanFcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
