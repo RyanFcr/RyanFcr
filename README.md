@@ -2,9 +2,10 @@
 
 #### About Me
 
-- 🎓An undergraduate student in Zhejiang University , major in Information Security
+- 🎓An undergraduate student in Zhejiang University , major in Information Security(IS)
 - 💻Learning open courses released by MIT/CMU
 - 🌱blog：[Sisyphus's blog - 西西弗斯没问题 (ryanfcr.github.io)](https://ryanfcr.github.io/)
+- 😄 Pronouns: study hard,play harder
 
 #### Interest
 
