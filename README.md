@@ -2,12 +2,13 @@
 
 #### About Me
 
-- 🎓An undergraduate student in Zhejiang University, major in Information Security(IS)
-- 🎓Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a NFT degener
-- 💻Learning open courses released by MIT/CMU
-- 🌱blog：[Sisyphus's blog - 西西弗斯没问题 (ryanfcr.github.io)](https://ryanfcr.github.io/)
+- 🎓 An undergraduate student in Zhejiang University, major in Information Security(IS)
+- 🎓 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a NFT degener
+- 💻 Learning open courses released by MIT/CMU
+- 🌱 blog：[Sisyphus's blog - 西西弗斯没问题 (ryanfcr.github.io)](https://ryanfcr.github.io/)
 - 😄 Pronouns: study hard, play harder
 - 💬 Ask me about anything
+- ✨ ENTJ->ENFP
 
 #### Interest
 
