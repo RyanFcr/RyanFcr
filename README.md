@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFcr&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### About Me
 
@@ -32,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr)](https://github.com/anuraghazra/github-readme-stats)
