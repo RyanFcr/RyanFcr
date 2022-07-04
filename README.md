@@ -42,6 +42,14 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFcr&count_private=true&theme=vue&show_icons=true)](https://github.com/RyanFcr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr&hide=javascript,html,CSS&layout=compact)](https://github.com/RyanFcr)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=HuaWei_Smart_Glass&theme=vue)](https://github.com/RyanFcr/HuaWei_Smart_Glass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=KingRank&theme=vue)](https://github.com/RyanFcr/KingRank)
+
 <!--
 **RyanFcr/RyanFcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,10 +64,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFcr&count_private=true&theme=vue&show_icons=true)](https://github.com/RyanFcr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr&hide=javascript,html,CSS&layout=compact)](https://github.com/RyanFcr)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=HuaWei_Smart_Glass&theme=vue)](https://github.com/RyanFcr/HuaWei_Smart_Glass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=KingRank&theme=vue)](https://github.com/RyanFcr/KingRank)
-
