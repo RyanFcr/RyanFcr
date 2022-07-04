@@ -11,7 +11,7 @@
 - 🌱 blog：[Sisyphus's blog - 西西弗斯没问题 (ryanfcr.github.io)](https://ryanfcr.github.io/)
 - 😄 Pronouns: study hard, play harder
 - 💬 Ask me about anything
-- ✨ ENTJ->ENFP
+- ✨ ENTJ/ENFP
 
 #### Interest
 
@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=HuaWei_Smart_Glass)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr&hide=javascript,html,CSS)](https://github.com/anuraghazra/github-readme-stats)
