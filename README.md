@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=HuaWei_Smart_Glass)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=KingRank)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=HuaWei_Smart_Glass)](https://github.com/RyanFcr/HuaWei_Smart_Glass)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=KingRank)](https://github.com/RyanFcr/KingRank)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr&hide=javascript,html,CSS)](https://github.com/anuraghazra/github-readme-stats)
