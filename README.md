@@ -1,7 +1,7 @@
 
 ## About Me
 
-- 🎓 An undergraduate student in Zhejiang University, major in Computer Science/Information Security
+- 🎓 An undergraduate student at Zhejiang University, majoring in Computer Science/Information Security
 - 🎓 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a NFT degener
 - 💻 Learning open courses released by MIT/CMU
 - 👯 Welcome to my channel: https://space.bilibili.com/277830177?spm_id_from=333.1007.0.0
@@ -13,7 +13,7 @@
 
 ## Interest
 
-- BlockChain&NFT
+- BlockChain & NFT
 - web3.0
 - Crypto
 
