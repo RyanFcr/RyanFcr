@@ -3,7 +3,7 @@
 
 - 🎓 An undergraduate student at Zhejiang University, majoring in Computer Science/Information Security
 - 🎓 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a NFT degener
-- 💻 Learning open courses released by MIT/CMU
+- 💻 Learning open courses released by MIT/CMU/Stanford
 - 👯 Welcome to my channel: https://space.bilibili.com/277830177?spm_id_from=333.1007.0.0
 - 🔭 My own repository: https://www.yuque.com/xixifusimeiwenti
 - 🌱 blog：[Sisyphus's blog - 西西弗斯没问题 (ryanfcr.github.io)](https://ryanfcr.github.io/)
