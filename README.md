@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr&hide=javascript,html,CSS&layout=compact)](https://github.com/RyanFcr)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=HuaWei_Smart_Glass&theme=vue)](https://github.com/RyanFcr/HuaWei_Smart_Glass)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=KingRank&theme=vue)](https://github.com/RyanFcr/KingRank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=Planet&theme=vue)](https://github.com/RyanFcr/Planet)
 
 <!--
 **RyanFcr/RyanFcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
