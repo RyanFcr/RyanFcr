@@ -1,7 +1,7 @@
 
 ## About Me
 
-- 🎓 An undergraduate studying Information Security at [Turing Class, Zhejiang University](http://www.en.cs.zju.edu.cn/turing_honors_class/list.htm). I am expected to graduate in 2024.
+- 🎓 An undergraduate studying Information Security at [Turing Class, Zhejiang University](http://www.en.cs.zju.edu.cn/turing_honors_class/list.htm). I am expected to graduate in 2024. Here is the [GitHub Page](https://github.com/ZJU-Turing)
 - 🎓 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a NFT degener
 - 💻 Learning open courses released by MIT/CMU/Stanford
 - 👯 Welcome to my channel: https://space.bilibili.com/277830177?spm_id_from=333.1007.0.0
