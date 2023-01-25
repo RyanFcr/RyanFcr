@@ -2,10 +2,10 @@
 ## About Me
 
 - 🎓 An undergraduate studying Information Security at [Turing Class, Zhejiang University](http://www.en.cs.zju.edu.cn/turing_honors_class/list.htm). I am expected to graduate in 2024.
-- 🎓 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a NFT degener
+- 🎓 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a NFT degener, a Web3 entrepreneur
 - 💻 Learning open courses released by MIT/CMU/Stanford
 - 👯 Welcome to my channel: https://space.bilibili.com/277830177?spm_id_from=333.1007.0.0
-- 🔭 My own repository: https://www.yuque.com/xixifusimeiwenti
+- 🔭 My Web3 Knowledge base: https://k5ms77k0o1.feishu.cn/wiki/space/7191838137750945796?ccm_open_type=lark_wiki_spaceLink
 - 🌱 blog：[Sisyphus's blog - 西西弗斯没问题 (ryanfcr.github.io)](https://ryanfcr.github.io/)
 - 😄 Pronouns: study hard, play harder
 - 💬 Ask me about anything
