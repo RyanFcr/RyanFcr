@@ -1,4 +1,3 @@
-
 ## About Me
 
 - 🎓 An undergraduate studying Information Security at [Turing Class, Zhejiang University](http://www.en.cs.zju.edu.cn/turing_honors_class/list.htm). I am expected to graduate in 2024.
@@ -16,7 +15,6 @@
 - BlockChain & NFT
 - Web3.0
 - Crypto
-
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
@@ -43,13 +41,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </p>
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFcr&count_private=true&theme=vue&show_icons=true)](https://github.com/RyanFcr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr&hide=javascript,html,CSS&layout=compact)](https://github.com/RyanFcr)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=HuaWei_Smart_Glass&theme=vue)](https://github.com/RyanFcr/HuaWei_Smart_Glass)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanFcr&repo=Planet&theme=vue)](https://github.com/RyanFcr/Planet)
 
+<table>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
 <!--
 **RyanFcr/RyanFcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,4 +65,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
