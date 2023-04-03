@@ -21,14 +21,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFcr&count_private=true&theme=vue&show_icons=true)](https://github.com/RyanFcr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr&hide=javascript,html,CSS&layout=compact)](https://github.com/RyanFcr)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanfcr/ryanfcr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanfcr/ryanfcr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanfcr/ryanfcr/output/github-contribution-grid-snake.svg">
-</picture>
-
-<h2 align="center">Languages and skills</h2>
-<h3 align="center">Languages</h3>
+<h2 >Languages and skills</h2>
+<h3 >Languages</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -43,12 +37,12 @@
 ![](https://img.shields.io/badge/-Ocaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 
 </div>
-<h3 align="center">Frontend</h3>
+<h3>Frontend</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-<h3 align="center">Web3</h3>
+<h3>Web3</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -56,7 +50,7 @@
 ![](https://img.shields.io/badge/-REMIX-000000?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-HARDHAT-ECD53F?style=for-the-badge&logoColor=white)
 
-<h3 align="center">AI</h3>
+<h3>AI</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -64,7 +58,7 @@
 ![](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-<h3 align="center">Development Tools</h3>
+<h3>Development Tools</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,6 +69,11 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanfcr/ryanfcr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanfcr/ryanfcr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanfcr/ryanfcr/output/github-contribution-grid-snake.svg">
+</picture>
 <!--
 **RyanFcr/RyanFcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
