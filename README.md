@@ -27,7 +27,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanfcr/ryanfcr/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Languages and skills</h2>
+<h3 align="center">Languages</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
