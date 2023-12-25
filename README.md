@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 An undergraduate studying Information Security at [Turing Class, Zhejiang University](http://www.en.cs.zju.edu.cn/turing_honors_class/list.htm). I am expected to graduate in 2024.
-- 📖 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a NFT degener, a Web3 entrepreneur
+- 📖 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a Web3 & AI entrepreneur, Hacker and Creator
 - 💻 Learning open courses released by MIT/CMU/Stanford
 - 👯 Welcome to [my channel](https://space.bilibili.com/277830177?spm_id_from=333.1007.0.0)
 - 🔭 My [Self Introduction](https://k5ms77k0o1.feishu.cn/wiki/wikcnrqDY1BgCnAkKF7mxx0IMEf?fromScene=spaceOverview)
@@ -14,7 +14,8 @@
 
 ## Interest
 
-- BlockChain & NFT
+- Generative AI
+- BlockChain
 - Web3.0
 - Crypto
 
