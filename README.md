@@ -16,7 +16,7 @@
 
 - Generative AI
 - BlockChain
-- Web3.0
+- Web3
 - Crypto
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFcr&count_private=true&theme=vue&show_icons=true)](https://github.com/RyanFcr)
