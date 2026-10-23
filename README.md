@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Hacker
+- Artist Hacker Builder
 
 ## Interest
 
