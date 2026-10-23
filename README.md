@@ -2,22 +2,11 @@
 
 ## About Me
 
-- 🎓 An undergraduate studying Information Security at [Turing Class, Zhejiang University](http://www.en.cs.zju.edu.cn/turing_honors_class/list.htm). I am expected to graduate in 2024.
-- 📖 Minor in ITP(Intensive Training Program of Innovation and Entrepreneurship), a Web3 & AI entrepreneur, Hacker and Creator
-- 💻 Learning open courses released by MIT/CMU/Stanford
-- 👯 Welcome to [my channel](https://space.bilibili.com/277830177?spm_id_from=333.1007.0.0)
-- 🔭 My [Self Introduction](https://k5ms77k0o1.feishu.cn/wiki/wikcnrqDY1BgCnAkKF7mxx0IMEf?fromScene=spaceOverview)
-- 🌱 blog：[Sisyphus's blog](https://ryanfcr.github.io/)
-- 😄 Pronouns: study hard, play harder
-- 💬 Ask me about anything
-- ✨ ENTJ/ENFP
+- Hacker
 
 ## Interest
 
-- Generative AI
-- BlockChain
-- Web3
-- Crypto
+- Startups
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanFcr&count_private=true&theme=vue&show_icons=true)](https://github.com/RyanFcr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanFcr&hide=javascript,html,CSS&layout=compact)](https://github.com/RyanFcr)
